@@ -1,2 +1,3 @@
-# mini-data-visualizer-5t7u
+# Mini Data Visualizer 5T7U
+
 A repository to test GitHub automation for issue management.
